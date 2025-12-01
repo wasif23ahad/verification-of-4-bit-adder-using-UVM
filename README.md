@@ -722,9 +722,9 @@ This project is provided as-is for educational and verification learning purpose
 
 ## Author
 
-Created as a demonstration of UVM verification methodology for digital design verification.
+Mohammad Wasif Ahad
 
-**Date:** December 2025
+**Date:** 1st December, 2025
 
 ---
 
