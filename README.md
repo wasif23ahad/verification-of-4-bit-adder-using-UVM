@@ -99,7 +99,7 @@ The testbench follows the standard UVM architecture with a layered, modular appr
                           │   │
                     ┌─────▼───▼──────┐
                     │   Interface    │
-                    └────────┬────────┘
+                    └────────┬───────┘
                              │
                     ┌────────▼────────┐
                     │      DUT        │
