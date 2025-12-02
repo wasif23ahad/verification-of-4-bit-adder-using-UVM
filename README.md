@@ -80,8 +80,8 @@ The testbench follows the standard UVM architecture with a layered, modular appr
 ```
 ┌─────────────────────────────────────────────────┐
 │                  UVM Test                       │
-│  ┌───────────────────────────────────────────┐  │
-│  │         UVM Environment                   │  │
+│  ┌──────────────────────────────────────────┐   │
+│  │         UVM Environment                  │   │
 │  │  ┌─────────────────┐  ┌────────────────┐ │   │
 │  │  │   UVM Agent     │  │  Scoreboard    │ │   │
 │  │  │ ┌─────────────┐ │  └────────────────┘ │   │
